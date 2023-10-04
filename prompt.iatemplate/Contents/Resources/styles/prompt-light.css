@@ -1,0 +1,149 @@
+html:not(.night-mode) {
+	color: #1d1d1f;
+	background-color: #ffffff;
+}
+
+html:not(.night-mode) .markdown-body {
+	color-scheme: light;
+}
+
+html:not(.night-mode) .markdown-body a {
+	color: #1d1d1f;
+}
+
+html:not(.night-mode) .markdown-body mark {
+	background-color: #1d1d1f;
+	color: #ffffff;
+}
+
+html:not(.night-mode) .markdown-body img {
+	background-color: #ffffff;
+}
+
+html:not(.night-mode) .markdown-body hr {
+	border-bottom: 1px solid #dddddd;
+	background-color: #dddddd;
+}
+
+html:not(.night-mode) .markdown-body a:focus,
+html:not(.night-mode) .markdown-body [role=button]:focus,
+html:not(.night-mode) .markdown-body input[type=radio]:focus,
+html:not(.night-mode) .markdown-body input[type=checkbox]:focus {
+	outline: 2px solid #0969da;
+}
+
+html:not(.night-mode) .markdown-body a:focus-visible,
+html:not(.night-mode) .markdown-body [role=button]:focus-visible,
+html:not(.night-mode) .markdown-body input[type=radio]:focus-visible,
+html:not(.night-mode) .markdown-body input[type=checkbox]:focus-visible {
+	outline: 2px solid #0969da;
+}
+
+html:not(.night-mode) .markdown-body kbd {
+	color: #ffffff;
+	background-color: #454545;
+}
+
+html:not(.night-mode) .markdown-body h6 {
+	color: #1d1d1f;
+}
+
+html:not(.night-mode) .markdown-body blockquote {
+	color: #ffffff;
+	border-left: .25em solid #dddddd;
+}
+
+html:not(.night-mode) .markdown-body ::placeholder {
+	color: #6e7781;
+}
+
+/* html:not(.night-mode) .markdown-body li:has(> a) {
+	color: #1d1d1f;
+} */
+
+html:not(.night-mode) .markdown-body span.frame>span {
+	border: 1px solid #dddddd;
+}
+
+html:not(.night-mode) .markdown-body span.frame span span {
+	color: #1d1d1f;
+}
+
+html:not(.night-mode) .markdown-body code,
+html:not(.night-mode) .markdown-body tt {
+	color: #1d1d1f;
+	background-color: #f6f6f6;
+}
+
+html:not(.night-mode) .markdown-body .highlight pre,
+html:not(.night-mode) .markdown-body pre {
+	background-color: #f6f6f6;
+}
+
+html:not(.night-mode) .markdown-body .footnotes {
+	color: #1d1d1f;
+}
+
+html:not(.night-mode) .markdown-body .footnotes li:target::before {
+	border: 2px solid #0969da;
+}
+
+html:not(.night-mode) .markdown-body .footnotes li:target {
+	color: #1d1d1f;
+}
+
+/* tables */
+
+html:not(.night-mode) .markdown-body table tr:nth-child(even) {
+	/* background-color: #fcfcfc; */
+}
+
+html:not(.night-mode) .markdown-body table th {
+	border-top: 1px solid #e4e4e4;
+	border-right: 1px solid #e4e4e4;
+}
+
+html:not(.night-mode) .markdown-body table thead tr:last-child th {
+  border-bottom: none;
+}
+
+html:not(.night-mode) .markdown-body table tr:last-child th {
+	border-bottom: 1px solid #e4e4e4;
+}
+
+html:not(.night-mode) .markdown-body table th:first-child {
+	border-left: 1px solid #e4e4e4;
+}
+
+html:not(.night-mode) .markdown-body table td {
+	border-top: 1px solid #e4e4e4;
+	border-right: 1px solid #e4e4e4;
+}
+
+html:not(.night-mode) .markdown-body table td:first-child {
+	border-left: 1px solid #e4e4e4;
+}
+
+html:not(.night-mode) .markdown-body table tr:last-child td {
+	border-bottom: 1px solid #e4e4e4;
+}
+
+html:not(.night-mode) .markdown-body table tr:last-child td {
+	border-bottom: 1px solid #e4e4e4;
+}
+
+/* copy button */
+
+html:not(.night-mode) .markdown-body .cb-button {
+	color: #505050;
+	border: 1px solid #0606061f;
+	background-color: #f6f6f6;
+}
+
+html:not(.night-mode) .markdown-body .cb-button:hover {
+	border-color: #06060630;
+}
+
+html:not(.night-mode) .markdown-body .cb-button:active {
+	border-color: #06060648;
+}

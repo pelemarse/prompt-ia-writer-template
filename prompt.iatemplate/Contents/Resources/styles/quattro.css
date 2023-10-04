@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'iA Writer Quattro S';
+    src: url('../fonts/quattro/iAWriterQuattroS-Bold.eot');
+    src: url('../fonts/quattro/iAWriterQuattroS-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/quattro/iAWriterQuattroS-Bold.woff2') format('woff2'),
+        url('../fonts/quattro/iAWriterQuattroS-Bold.woff') format('woff'),
+        url('../fonts/quattro/iAWriterQuattroS-Bold.ttf') format('truetype'),
+        url('../fonts/quattro/iAWriterQuattroS-Bold.svg#iAWriterQuattroS-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'iA Writer Quattro S';
+    src: url('../fonts/quattro/iAWriterQuattroS-Regular.eot');
+    src: url('../fonts/quattro/iAWriterQuattroS-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/quattro/iAWriterQuattroS-Regular.woff2') format('woff2'),
+        url('../fonts/quattro/iAWriterQuattroS-Regular.woff') format('woff'),
+        url('../fonts/quattro/iAWriterQuattroS-Regular.ttf') format('truetype'),
+        url('../fonts/quattro/iAWriterQuattroS-Regular.svg#iAWriterQuattroS-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'iA Writer Quattro S';
+    src: url('../fonts/quattro/iAWriterQuattroS-Italic.eot');
+    src: url('../fonts/quattro/iAWriterQuattroS-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/quattro/iAWriterQuattroS-Italic.woff2') format('woff2'),
+        url('../fonts/quattro/iAWriterQuattroS-Italic.woff') format('woff'),
+        url('../fonts/quattro/iAWriterQuattroS-Italic.ttf') format('truetype'),
+        url('../fonts/quattro/iAWriterQuattroS-Italic.svg#iAWriterQuattroS-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'iA Writer Quattro S';
+    src: url('../fonts/quattro/iAWriterQuattroS-BoldItalic.eot');
+    src: url('../fonts/quattro/iAWriterQuattroS-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/quattro/iAWriterQuattroS-BoldItalic.woff2') format('woff2'),
+        url('../fonts/quattro/iAWriterQuattroS-BoldItalic.woff') format('woff'),
+        url('../fonts/quattro/iAWriterQuattroS-BoldItalic.ttf') format('truetype'),
+        url('../fonts/quattro/iAWriterQuattroS-BoldItalic.svg#iAWriterQuattroS-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+

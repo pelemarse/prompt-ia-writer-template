@@ -1,0 +1,149 @@
+html.night-mode {
+	color: #d8d8d8;
+	background-color: #1a1b1a;
+}
+
+html.night-mode .markdown-body {
+	color-scheme: dark;
+}
+
+html.night-mode .markdown-body a {
+	color: #d8d8d8;
+}
+
+html.night-mode .markdown-body mark {
+	color: #3b3b3b;
+	background-color: #e8e8e8;
+}
+
+html.night-mode .markdown-body img {
+	background-color: #1a1b1a;
+}
+
+html.night-mode .markdown-body hr {
+	border-bottom: 1px solid #2a2a2a;
+	background-color: #2a2a2a;
+}
+
+html.night-mode .markdown-body a:focus,
+html.night-mode .markdown-body [role=button]:focus,
+html.night-mode .markdown-body input[type=radio]:focus,
+html.night-mode .markdown-body input[type=checkbox]:focus {
+	outline: 2px solid #58a6ff;
+}
+
+html.night-mode .markdown-body a:focus-visible,
+html.night-mode .markdown-body [role=button]:focus-visible,
+html.night-mode .markdown-body input[type=radio]:focus-visible,
+html.night-mode .markdown-body input[type=checkbox]:focus-visible {
+	outline: 2px solid #58a6ff;
+}
+
+html.night-mode .markdown-body kbd {
+	color: #1a1b1a;
+	background-color: #9c9c9c;
+}
+
+html.night-mode .markdown-body h6 {
+	color: #d8d8d8;
+}
+
+html.night-mode .markdown-body blockquote {
+	color: #d8d8d8;
+	border-left: .25em solid #2a2a2a;
+}
+
+html.night-mode .markdown-body ::placeholder {
+	color: #6e7681;
+}
+
+/* html.night-mode .markdown-body li:has(> a) {
+	color: #9a9a9a;
+} */
+
+html.night-mode .markdown-body span.frame>span {
+	border: 1px solid #2a2a2a;
+}
+
+html.night-mode .markdown-body span.frame span span {
+	color: #d8d8d8;
+}
+
+html.night-mode .markdown-body code,
+html.night-mode .markdown-body tt {
+	color: #d8d8d8;
+	background-color: #2f2f2f;
+}
+
+html.night-mode .markdown-body .highlight pre,
+html.night-mode .markdown-body pre {
+	background-color: #2f2f2f;
+}
+
+html.night-mode .markdown-body .footnotes {
+	color: #9a9a9a;
+}
+
+html.night-mode .markdown-body .footnotes li:target::before {
+	border: 2px solid #1f6feb;
+}
+
+html.night-mode .markdown-body .footnotes li:target {
+	color: #d8d8d8;
+}
+
+/* tables */
+
+html.night-mode .markdown-body table tr:nth-child(even) {
+	/* background-color: #222222; */
+}
+
+html.night-mode .markdown-body table th {
+	border-top: 1px solid #323232;
+	border-right: 1px solid #323232;
+}
+
+html.night-mode .markdown-body table thead tr:last-child th {
+  border-bottom: none;
+}
+
+html.night-mode .markdown-body table tr:last-child th {
+	border-bottom: 1px solid #323232;
+}
+
+html.night-mode .markdown-body table th:first-child {
+	border-left: 1px solid #323232;
+}
+
+html.night-mode .markdown-body table td {
+	border-top: 1px solid #323232;
+	border-right: 1px solid #323232;
+}
+
+html.night-mode .markdown-body table td:first-child {
+	border-left: 1px solid #323232;
+}
+
+html.night-mode .markdown-body table tr:last-child td {
+	border-bottom: 1px solid #323232;
+}
+
+html.night-mode .markdown-body table tr:last-child td {
+	border-bottom: 1px solid #323232;
+}
+
+/* copy button */
+
+html.night-mode .markdown-body .cb-button {
+	color: #7d7d7d;
+	border: 1px solid #ffffff13;
+	background-color: #272727;
+}
+
+html.night-mode .markdown-body .cb-button:hover {
+	border-color: #ffffff24;
+}
+
+html.night-mode .markdown-body .cb-button:active {
+	border-color: #ffffff34;
+}
