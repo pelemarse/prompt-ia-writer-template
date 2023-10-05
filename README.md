@@ -5,8 +5,8 @@
 This template features two themes - dark and light, giving you the option to choose an environment that best suits your needs or mood. Moreover, the "Quattro" font enhances readability, contributing to the overall visual appeal of the text. Inspired by minimalism, "Prompt" will certainly enhance your documentation writing experience.
 
 - Minimal Design
-- Copy Button[^1]
-- Quattro Font[^2]
+- Copy Button [^1]
+- Quattro Font [^2]
 
 [More Screenshots](https://github.com/pelemarse/prompt-ia-writer-template/wiki/Screenshots)
 
