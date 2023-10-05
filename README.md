@@ -8,6 +8,8 @@ This template features two themes - dark and light, giving you the option to cho
 - Copy Button[^1]
 - Quattro Font[^2]
 
+[More Screenshots](https://github.com/pelemarse/prompt-ia-writer-template/wiki/Screenshots)
+
 ![Prompt Preview](https://user-images.githubusercontent.com/29234307/272749964-d4240f44-f4bc-4ca3-8b22-31085f5a743c.png)
 
 [^1]: More about quattro font [https://ia.net/topics/a-typographic-christmas](https://ia.net/topics/a-typographic-christmas)
