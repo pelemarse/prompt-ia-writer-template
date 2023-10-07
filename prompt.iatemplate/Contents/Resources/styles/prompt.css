@@ -801,9 +801,10 @@
 .markdown-body table code,
 table pre,
 table tt {
-	font-size: 0.78125rem;
-	border-radius: 3px;
 	white-space: normal;
+	padding: 1px 4px;
+	font-size: 94%;
+	border-radius: 3px;
 }
 
 /* copy button */
