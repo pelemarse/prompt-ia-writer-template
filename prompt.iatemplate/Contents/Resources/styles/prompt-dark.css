@@ -7,6 +7,11 @@ html.night-mode .markdown-body {
 	color-scheme: dark;
 }
 
+html.night-mode .markdown-body strong,
+html.night-mode .markdown-body b {
+	color: #ffffff;
+}
+
 html.night-mode .markdown-body a {
 	color: #d8d8d8;
 }
