@@ -895,7 +895,7 @@ table tt {
 @media screen {
 	.markdown-body {
 		margin: 0 auto;
-		max-width: 830px;
+		max-width: 70ch; /* orginal value: max-width: 830px; */
 	}
 }
 
